@@ -24,7 +24,7 @@ Altera da área de trabalho para o branch especificado, com o -b o git irá cria
 git commit -m “mensagem de commit”
 ```
 Cria um novo commit com as alterações que estavam na área de preparo. Com o -m é possível adicionar em um único comando o commit e a sua respectiva mensagem, que é obrigatória. Sem o -m, será solicitado a mensagem em seguida  
-*Leia mais sobre mensagens de commit [aqui](/padronizacaoCommit.md)*  
+*Leia mais sobre mensagens de commit [aqui](padronizacaoCommit.md)*  
 
 ```
 git push origin [branch remoto]
